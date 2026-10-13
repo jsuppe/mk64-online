@@ -1,6 +1,8 @@
 # Separate MK64 player-facing showcase
 
-Date: 2026-10-13. Status: proposed site brief; no new website deployed.
+Date: 2026-10-13. Status: initial player-facing site implemented; gameplay
+qualification and player-ready onboarding remain in progress.
+Site: https://jsuppe.github.io/mk64-online/.
 Depends on [driving/camera qualification](MK64-DRIVING-AUTOMATION-PLAN.md).
 
 ## Audience and promise
@@ -13,7 +15,7 @@ do not imply Nintendo affiliation or retail-ready hardware support.
 Keep the existing NetPak64 site as the engineering/device showcase. Create a
 separate independently navigable MK64 site with its own homepage, assets, captions,
 and deployment target. A working local prototype can use a separate directory;
-final repository/domain selection is a release decision, not a planning blocker.
+The standalone repository is `jsuppe/mk64-online`, published with GitHub Pages.
 
 ## Information architecture
 
