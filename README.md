@@ -9,7 +9,8 @@ The engineering showcase remains at https://jsuppe.github.io/netpak64/.
 ## Preview
 
 Run `python3 -m http.server 8080` here and open http://localhost:8080/.
-Plain HTML/CSS, no build step. GitHub Pages publishes the main branch root.
+Plain HTML/CSS with a small screenshot-viewer script; no build step. GitHub
+Pages publishes the main branch root.
 
 ## Content rules
 
@@ -20,5 +21,14 @@ Plain HTML/CSS, no build step. GitHub Pages publishes the main branch root.
 - Claim real-console support only after verified physical end-to-end play.
 - See `docs/` for the driving qualification plan and original site brief.
 
-Illustrated track and site mark are original SVG graphics, not game assets.
-Video posters reference existing public development recordings.
+## Mod-site presentation
+
+Use direct, technical mod-community writing rather than marketing slogans.
+The site includes four original development videos, eight expandable screenshots,
+source-level networking notes, build checksums, and a known-bug register.
+Keep measurements tied to the exact development run and show unresolved issues.
+
+Title styling and item icons are original game-inspired artwork, not extracted
+game assets. Screenshots are resized frames from existing public recordings.
+Russo One and Press Start 2P are self-hosted; their OFL licenses are in
+`assets/fonts/`. See `docs/MEDIA.md` for screenshot provenance.

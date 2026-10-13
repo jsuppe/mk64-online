@@ -3,6 +3,14 @@
 Date: 2026-10-13. Status: initial player-facing site implemented; gameplay
 qualification and player-ready onboarding remain in progress.
 Site: https://jsuppe.github.io/mk64-online/.
+
+## User-directed presentation revision
+
+The October 13 feedback replaces the initial marketing-style presentation:
+write like an N64 game-mod site, use MK64-inspired fonts/title/icons, prioritize
+technical detail, and show lots of actual screenshots and videos. The implemented
+revision includes four videos, eight expandable frame captures, self-hosted fonts,
+build identity, lockstep source constants, and an explicit known-bug register.
 Depends on [driving/camera qualification](MK64-DRIVING-AUTOMATION-PLAN.md).
 
 ## Audience and promise
