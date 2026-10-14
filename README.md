@@ -25,7 +25,7 @@ Pages publishes the main branch root.
 ## Mod-site presentation
 
 Use direct, technical mod-community writing rather than marketing slogans.
-The site includes four original development videos, eight expandable screenshots,
+The site includes six video cards plus the lead player-view video, thirteen expandable screenshots,
 source-level networking notes, build checksums, and a known-bug register.
 Keep measurements tied to the exact development run and show unresolved issues.
 

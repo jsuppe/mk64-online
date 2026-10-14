@@ -31,3 +31,22 @@ These game images belong to Nintendo/their respective owners; they are not
 original site artwork or assets licensed under the font licenses below.
 Russo One and Press Start 2P font files are from Google Fonts and are redistributed
 under the accompanying SIL Open Font License files.
+
+
+## v77 recordings and screenshots
+
+Current release: https://github.com/jsuppe/netpak64/releases/tag/showcase-v77
+
+- Host-view clip: run 3, 90 seconds from 00:10–01:40 of the uncut 210-second
+  host capture; 30 fps. Native CPU control, no controller bar, emulator chrome cropped.
+- Four-peer clip: run 1, 90 seconds from 00:45–02:15 of the uncut 240-second
+  four-peer capture; 15 fps, game views cropped and downscaled to a 1200x912 grid.
+- `v77-player-view.jpg`: host capture 00:12.
+- `v77-player-corner.jpg`: host capture 01:10.
+- `v77-four-peer-early.jpg`: full four-peer capture 00:20.
+- `v77-four-peer-lap2.jpg`: full four-peer capture 01:25.
+- `v77-four-peer-late.jpg`: full four-peer capture 02:15.
+
+All new screenshots are actual frames. No generated driving, speed-up cuts,
+collision removal, or interpolated motion. The clips are silent. All newer
+claim scope and telemetry limits are recorded in QA-V77.md.

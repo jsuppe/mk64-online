@@ -230,3 +230,15 @@ Missing coverage is visible; synchronization is never presented as gameplay qual
 Loom requirements workflow was consulted, but its CLI cannot persist records in
 this environment because `chromadb` is missing. This document is the durable
 requirements/acceptance record for now; no Loom records were claimed as created.
+
+
+## v77 execution checkpoint — 2026-10-13
+
+Mario Raceway four-peer native CPU integration now has three full three-lap
+runs, all 12 participant finishes, and no premature cinematic/finish samples.
+9,241 / 7,664 / 8,040 shared frames compared without divergence. This addresses
+one concrete ROM/test-lifecycle cause of the bad v76 footage; it is not an
+all-scenarios driver/camera sign-off. The three-lap rule, AI participant finish
+path, all-participant results wait, and diagnostic overlay fix are in game v77.
+See [qualification report](QA-V77.md) and [participant metrics](v77-driving-results.json).
+Other-course, Battle, human/mixed-session, and console work remain open.

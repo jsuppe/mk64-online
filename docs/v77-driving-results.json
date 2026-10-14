@@ -1,0 +1,257 @@
+{
+  "version": 77,
+  "course": "Mario Raceway",
+  "course_id": 8,
+  "speed_class": "100cc (CC=1 device witness)",
+  "input_delay_frames": 4,
+  "participants": 4,
+  "test_rom_md5": "180f31ee075cfd186973a4f779b2b50f",
+  "product_rom_md5": "ce94c976521b215d7b4dee0b7151beeb",
+  "runs": [
+    {
+      "run": 1,
+      "compared_frames": 9241,
+      "divergence": 0,
+      "participants": [
+        {
+          "log": "a4.log",
+          "samples": 85,
+          "seats": [
+            0
+          ],
+          "max_lap": 3,
+          "active_samples": 77,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 74,
+          "yaw_error_p95_degrees": 0.8,
+          "non_spin_yaw_p95_degrees": 0.8,
+          "low_speed_active_samples": 0,
+          "sampled_displacement_units": 36760.5,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "b4.log",
+          "samples": 85,
+          "seats": [
+            1
+          ],
+          "max_lap": 3,
+          "active_samples": 74,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 72,
+          "yaw_error_p95_degrees": 1.22,
+          "non_spin_yaw_p95_degrees": 0.16,
+          "low_speed_active_samples": 3,
+          "sampled_displacement_units": 37536.5,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "c4.log",
+          "samples": 85,
+          "seats": [
+            2
+          ],
+          "max_lap": 3,
+          "active_samples": 76,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 74,
+          "yaw_error_p95_degrees": 1.93,
+          "non_spin_yaw_p95_degrees": 0.0,
+          "low_speed_active_samples": 11,
+          "sampled_displacement_units": 36401.8,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "d4.log",
+          "samples": 85,
+          "seats": [
+            3
+          ],
+          "max_lap": 3,
+          "active_samples": 72,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 69,
+          "yaw_error_p95_degrees": 4.23,
+          "non_spin_yaw_p95_degrees": 1.59,
+          "low_speed_active_samples": 2,
+          "sampled_displacement_units": 36662.5,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        }
+      ]
+    },
+    {
+      "run": 2,
+      "compared_frames": 7664,
+      "divergence": 0,
+      "participants": [
+        {
+          "log": "a4.log",
+          "samples": 87,
+          "seats": [
+            0
+          ],
+          "max_lap": 3,
+          "active_samples": 71,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 67,
+          "yaw_error_p95_degrees": 11.71,
+          "non_spin_yaw_p95_degrees": 11.71,
+          "low_speed_active_samples": 0,
+          "sampled_displacement_units": 37099.8,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "b4.log",
+          "samples": 87,
+          "seats": [
+            1
+          ],
+          "max_lap": 3,
+          "active_samples": 78,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 74,
+          "yaw_error_p95_degrees": 0.57,
+          "non_spin_yaw_p95_degrees": 0.25,
+          "low_speed_active_samples": 8,
+          "sampled_displacement_units": 36913.5,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "c4.log",
+          "samples": 87,
+          "seats": [
+            2
+          ],
+          "max_lap": 3,
+          "active_samples": 71,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 64,
+          "yaw_error_p95_degrees": 0.21,
+          "non_spin_yaw_p95_degrees": 0.0,
+          "low_speed_active_samples": 2,
+          "sampled_displacement_units": 36572.0,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "d4.log",
+          "samples": 87,
+          "seats": [
+            3
+          ],
+          "max_lap": 3,
+          "active_samples": 75,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 68,
+          "yaw_error_p95_degrees": 11.95,
+          "non_spin_yaw_p95_degrees": 3.63,
+          "low_speed_active_samples": 6,
+          "sampled_displacement_units": 36664.9,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        }
+      ]
+    },
+    {
+      "run": 3,
+      "compared_frames": 8040,
+      "divergence": 0,
+      "participants": [
+        {
+          "log": "a4.log",
+          "samples": 89,
+          "seats": [
+            0
+          ],
+          "max_lap": 3,
+          "active_samples": 81,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 79,
+          "yaw_error_p95_degrees": 2.36,
+          "non_spin_yaw_p95_degrees": 1.29,
+          "low_speed_active_samples": 6,
+          "sampled_displacement_units": 36709.6,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "b4.log",
+          "samples": 89,
+          "seats": [
+            1
+          ],
+          "max_lap": 3,
+          "active_samples": 80,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 76,
+          "yaw_error_p95_degrees": 114.18,
+          "non_spin_yaw_p95_degrees": 0.0,
+          "low_speed_active_samples": 7,
+          "sampled_displacement_units": 37051.5,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "c4.log",
+          "samples": 89,
+          "seats": [
+            2
+          ],
+          "max_lap": 3,
+          "active_samples": 73,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 72,
+          "yaw_error_p95_degrees": 2.89,
+          "non_spin_yaw_p95_degrees": 0.0,
+          "low_speed_active_samples": 4,
+          "sampled_displacement_units": 36432.0,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        },
+        {
+          "log": "d4.log",
+          "samples": 89,
+          "seats": [
+            3
+          ],
+          "max_lap": 3,
+          "active_samples": 76,
+          "premature_finish_samples": 0,
+          "non_chase_active_samples": 0,
+          "distinct_active_path_points": 74,
+          "yaw_error_p95_degrees": 4.38,
+          "non_spin_yaw_p95_degrees": 0.31,
+          "low_speed_active_samples": 6,
+          "sampled_displacement_units": 36967.8,
+          "longest_unexplained_stationary_frames": 0,
+          "lifecycle_camera_gate": true
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Same test ROM, local four-instance ares sessions; no hardware or wide-area network claim.",
+    "Device telemetry samples roughly every 60 logical frames, not continuously.",
+    "Yaw statistics include stock spinouts; non-spin statistics exclude the listed low-24-bit effects.",
+    "Position sampling cannot rule out every brief collision or stop. Uncut footage remains the visual evidence.",
+    "Capture is silent; native CPU driving is not human controller input.",
+    "Legacy results graphics can show a 50cc label although the race device witness reports CC=1 (100cc); this UI discrepancy is not fixed here."
+  ]
+}
