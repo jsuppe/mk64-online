@@ -34,3 +34,7 @@ the user's request; source attribution is in `docs/MEDIA.md`. Item icons are
 original game-inspired artwork. Screenshots are resized frames from public recordings.
 Russo One and Press Start 2P are self-hosted; their OFL licenses are in
 `assets/fonts/`. See `docs/MEDIA.md` for screenshot provenance.
+
+Menu/controller walkthrough: https://jsuppe.github.io/mk64-online/menus.html
+Fresh v77 product-ROM screenshots cover entry, online setup, host/guest lobbies,
+character/map selection, waiting overlays and the local START/quit menu.

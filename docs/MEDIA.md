@@ -50,3 +50,30 @@ Current release: https://github.com/jsuppe/netpak64/releases/tag/showcase-v77
 All new screenshots are actual frames. No generated driving, speed-up cuts,
 collision removal, or interpolated motion. The clips are silent. All newer
 claim scope and telemetry limits are recorded in QA-V77.md.
+
+## v77 menu walkthrough — October 13, 2026
+
+`menus.html` adds fresh product-ROM captures in `assets/menus/` (750×570).
+Source ROM MD5: `ce94c976521b215d7b4dee0b7151beeb`; commit `eed638611`.
+Captured in NetPak64-enabled ares against a local UDP relay. A debugger selected
+ONLINE for initial setup and injected N64 button edges at real menu handlers.
+No ROM/source changes were made. Normal game code handled room creation,
+listing, joining, START, character/course selection, ready/go and quit.
+The guest was held briefly to expose the host’s ready-wait overlay.
+These are actual framebuffer captures, not recreated menus or generated art.
+Only emulator chrome is cropped (source rectangle x=10, y=44, 750×570); JPEG
+compression is the only additional transformation. Raw PNGs and capture scripts
+are retained in `/home/melchior/dev/mk64-menu-capture-v77/` on the capture host.
+
+- `title-version`, `online-mode`: return from QUIT, title version stamp and 1P ONLINE.
+- `online`, `name-entry`, `join-code`: main online menu and editable fields.
+- `host-class`, `host-battle`, `visibility`: host rules and visibility selection.
+- `find-empty`, `find-listed`: empty list and actual locally hosted public room.
+- `host-roster`, `guest-lobby`: same two-peer room, respective lobby viewpoints.
+- `character-select`, `course-select`, `battle-arena-select`: real selection screens.
+- `waiting-host`, `waiting-players`: host-course and synchronized-start overlays.
+- `online-start-menu`, `online-quit-menu`: local online overlay, both cursor options.
+
+The temporary room code is from this local capture session. The pages document
+N64 controls, not verified emulator keyboard bindings. Spectator/replay camera
+controls are source-checked; this capture session does not qualify those modes.
