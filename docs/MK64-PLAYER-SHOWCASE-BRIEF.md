@@ -11,6 +11,11 @@ write like an N64 game-mod site, use MK64-inspired fonts/title/icons, prioritize
 technical detail, and show lots of actual screenshots and videos. The implemented
 revision includes four videos, eight expandable frame captures, self-hosted fonts,
 build identity, lockstep source constants, and an explicit known-bug register.
+
+Follow-up request: use the actual game's logo and make the theme substantially
+more MK64-specific. The current page uses the original in-game title logo and
+eight character portraits, with a brighter title-screen/character-select palette.
+This supersedes the initial original-title-art-only design guidance below.
 Depends on [driving/camera qualification](MK64-DRIVING-AUTOMATION-PLAN.md).
 
 ## Audience and promise
